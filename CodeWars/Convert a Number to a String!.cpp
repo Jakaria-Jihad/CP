@@ -5,10 +5,16 @@
 using namespace std;
 #define ll long long
 #define mod 1000000007
+std::string number_to_string(int num) {
+    // your code here
+    std::string a = std::to_string(num);
+    return a;
+}
 void solve()
 {
-
+   cout <<  number_to_string(1+2);
 }
+
 int main() {
     ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
 // #ifndef ONLINE_JUDGE
