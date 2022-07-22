@@ -7,7 +7,7 @@ using namespace std;
 #define mod 1000000007
 void solve()
 {
-    cout << "me noob";
+    cout << "still me noob";
 }
 int main() {
     ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
