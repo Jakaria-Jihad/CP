@@ -3,4 +3,4 @@ project(CP)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CP "CodeWars/Convert a String to a Number!.cpp")
+add_executable(CP "CodeWars/Keep Hydrated!.cpp")
