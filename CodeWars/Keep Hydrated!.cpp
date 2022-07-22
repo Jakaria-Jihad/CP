@@ -2,11 +2,9 @@
 // Created by Jihad on 7/23/2022.
 //
 #include <bits/stdc++.h>
-
 using namespace std;
 #define ll long long
 #define mod 1000000007
-
 int litres(double time) {
     int water = time * 0.5;
     return water;
