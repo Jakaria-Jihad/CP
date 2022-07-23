@@ -3,4 +3,4 @@ project(CP)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CP "CodeWars/Basic Mathematical Operations.cpp")
+add_executable(CP "CodeWars/Returning Strings.cpp")
