@@ -3,4 +3,4 @@ project(CP)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CP "CodeWars/Beginner - Lost Without a Map.cpp")
+add_executable(CP "CodeWars/Abbreviate a Two Word Name.cpp")
