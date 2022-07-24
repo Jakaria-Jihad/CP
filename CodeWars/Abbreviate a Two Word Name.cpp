@@ -16,9 +16,9 @@ string abbrevName(string name) {
             b = name[i + 1];
         }
     }
-    result.push_back(a);
+    result.push_back(toupper(a));
     result.push_back('.');
-    result.push_back(b);
+    result.push_back(toupper(b));
 
     return result;
 }
