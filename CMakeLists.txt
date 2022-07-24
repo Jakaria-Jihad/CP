@@ -3,4 +3,4 @@ project(CP)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CP "CodeWars/You Can't Code Under Pressure #1.cpp")
+add_executable(CP "CodeWars/Beginner - Lost Without a Map.cpp")
