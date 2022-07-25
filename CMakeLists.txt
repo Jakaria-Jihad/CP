@@ -3,4 +3,4 @@ project(CP)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CP "CodeWars/Is n divisible by x and y.cpp")
+add_executable(CP "CodeWars/Beginner Series #2 Clock.cpp")
