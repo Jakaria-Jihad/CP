@@ -3,4 +3,4 @@ project(CP)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CP "CodeWars/Count of positives  sum of negatives.cpp")
+add_executable(CP "CodeWars/Invert values.cpp")
