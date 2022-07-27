@@ -3,4 +3,4 @@ project(CP)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CP "CodeWars/Is he gonna survive.cpp")
+add_executable(CP "CodeWars/Calculate average.cpp")
