@@ -3,4 +3,4 @@ project(CP)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CP "CodeWars/Reversed sequence.cpp")
+add_executable(CP "CodeWars/Find Maximum and Minimum Values of a List.cpp")
