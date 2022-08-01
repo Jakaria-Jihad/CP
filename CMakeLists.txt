@@ -3,4 +3,4 @@ project(CP)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CP "CodeWars/How good are you really.cpp")
+add_executable(CP "CodeWars/Get the mean of an array.cpp")
