@@ -3,4 +3,4 @@ project(CP)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CP "CodeWars/DNA to RNA Conversion.cpp")
+add_executable(CP "CodeWars/Will you make it.cpp")
