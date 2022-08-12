@@ -3,4 +3,4 @@ project(CP)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CP "CodeWars/Reversed Words.cpp")
+add_executable(CP "CodeWars/Beginner - Reduce but Grow.cpp")
