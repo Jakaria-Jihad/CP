@@ -2,20 +2,20 @@
 // Created by Jihad on 8/12/2022.
 //
 #include <bits/stdc++.h>
+
 using namespace std;
 #define ll long long
 #define mod 1000000007
-int grow(std::vector<int> nums) {
-    // your code here
-    int mul = 1;
-    for (auto x: nums) {
-        mul *= x;
-    }
-    return mul;
+
+basic_string<char> string_to_array(const std::string &s) {
+    string st = s;
+    const char *str = st.c_str();
+    string a = str;
+    return a;
 }
 
 void solve() {
-    cout << grow({1, 2, 3});
+    cout << string_to_array("some value");
 }
 
 int main() {

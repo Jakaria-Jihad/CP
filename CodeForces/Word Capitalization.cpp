@@ -1,21 +1,17 @@
 //
-// Created by Jihad on 8/12/2022.
+// Created by Jihad on 8/31/2022.
 //
 #include <bits/stdc++.h>
+
 using namespace std;
 #define ll long long
 #define mod 1000000007
-int grow(std::vector<int> nums) {
-    // your code here
-    int mul = 1;
-    for (auto x: nums) {
-        mul *= x;
-    }
-    return mul;
-}
 
 void solve() {
-    cout << grow({1, 2, 3});
+    string a;
+    cin >> a;
+    a[0] = toupper(a[0]);
+    cout << a;
 }
 
 int main() {
